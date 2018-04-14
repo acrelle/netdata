@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM arm32v7/debian:jessie
 
 ADD git-tag /git-tag
 
